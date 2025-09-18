@@ -1,0 +1,14 @@
+# Ignore compiled files and folders
+/target/
+*.class
+*.log
+
+# IntelliJ/IDEA specific
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
